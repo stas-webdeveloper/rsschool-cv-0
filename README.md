@@ -1,2 +1,1 @@
-# rsschool-cv
-RSSchool tasks
+https://github.com/stas-webdeveloper/rsschool-cv
