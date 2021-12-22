@@ -1,20 +1,24 @@
 # Frontend Developer / *Stanislav Kudriavtsev*/
-## :bookmark: Summary
+##  Summary
 &nbsp;&nbsp;&nbsp;&nbsp;Mission-driven Frontend developer with a passion for thoughtful UI design and collaboration.  
 Proficient in an assortment of technologies, including JavaScript, React, Redux,  NodeJS. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.  
 Fan of unit tests, functional programming and typed interfaces.
+##  Contacts
 
-## :telephone_receiver: Contacts
+| ![my Logo](Logo_450.jpg "My Logo") | ![my Face](MyFace_cr_280.jpg "I Am formal")           |
+| :-----------------: | :-------------------------------------------------------------------- |   
+| <img width=300>     | <img width=280>                                                       |
+|  linkedIn |	[stanislav-frontend](https://www.linkedin.com/in/stanislav-frontend/) |                                      
+|  email     |	stas.webdev@yahoo.com                                                 |                        
+|  github    |	[stas-webdeveloper](https://github.com/stas-webdeveloper)             |                                              
+|  discord  |	:)Stas (@stas-webdeveloper)                                           |  
 
-| ![my Logo](_Logo_450.jpg "My Logo") | ![my Face](MyFace_cr_280.jpg "I Am formal")       |
-| :--------------: | :-------------------------------------------------------------------- |   
-| <img width=300> | <img width=280>                                                       |
-| :thumbsup: linkedIn        |	[stanislav-frontend](https://www.linkedin.com/in/stanislav-frontend/) |                                      
-| :mailbox: email           |	stas.webdev@yahoo.com                                                 |                        
-| :octocat: github          |	[stas-webdeveloper](https://github.com/stas-webdeveloper)             |                                              
-| :thumbsup: discord         |	:)Stas (@stas-webdeveloper)                                                             |
------
-## :loop: Skills
+
+-----  
+## Skills
+
+<samp>
+   
 * HTML5 & CSS3
 * JavaScript >ES6
 * TypeScript
@@ -23,10 +27,12 @@ Fan of unit tests, functional programming and typed interfaces.
 * NodeJS (basics)
 * Git
 * Webpack
+   
+</samp>
 
-## :computer: Code Example
+## Code Example
 -----
-## :office: Experience
+## Experience  
 
 Freelance, Kaliningrad — Frontend Developer  
 *Jan  2019 - PRESENT*, https://mysite.com
@@ -39,7 +45,7 @@ Freelance, Kaliningrad — Frontend Developer
     * Dramatically increased speed of UI development using atomic, scalable CSS
     * Improved accuracy, coverage, and speed of automated tests.
 
-## :blue_book: Education
+## Education
 * Higher education
   * Highest Military Command Communication College, Location — Oryol, Russia  
   *Aug 1984 - Aug 1988*  
@@ -53,9 +59,12 @@ Freelance, Kaliningrad — Frontend Developer
 
    * :ru: Russian - native speaker  
    * :uk: English - A2 (B1 in process…)  
-  + StreamLine Language School English test result: Pre-Intermediate (CEFR A2+). 
-https://test.str.by/mod/quiz/view.php?id=1176
-  + EPAM English test result: A1 I try to learn English in every possible way. I use application in smartphone: Duolingo and I use google translate a lot. 
-https://examinator.epam.com/Main/PersonalAssignments
+  
   + EFset Logo 
-  www.efset.org)
+  www.efset.org    
+  
+  
+**:heart: Hobbies:**
+  * Grandson
+  * Languages (JS, English, Spanish)
+  * Life as is...
