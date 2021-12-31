@@ -57,10 +57,11 @@ Freelance, Kaliningrad — Frontend Developer
 -----
 # Languages:
 
-   * 🇷🇺 Russian - native speaker
-   * :uk: English - B1/B2
+   * :ru: Russian - native speaker
+   * :uk: English - B1/B2  
 
-  + [<img width=200 alt="my efset sertificate" src="assets/The official EF SET Certificate™ _ Stanislav Kudriavtsev.jpg" />][efset]
+
+  [<img width=200 alt="my efset sertificate" src="assets/The official EF SET Certificate™ _ Stanislav Kudriavtsev.jpg" />][efset]
 
 
 **:heart: Hobbies:**
