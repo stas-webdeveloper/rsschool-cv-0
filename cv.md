@@ -50,8 +50,8 @@ Freelance, Kaliningrad — Frontend Developer
   * Highest Military Command Communication College, Location — Oryol, Russia
   *Aug 1984 - Aug 1988*
   Engineer for the operation of radio and electrical conductive communications
-  * Online learning
-  Glo Academy
+* Online learning
+  * Glo Academy
   *Aug 2018 - Dec 2018*
   ✓ HTML/ CSS/ JS Basics
 -----
