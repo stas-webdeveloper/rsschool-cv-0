@@ -57,7 +57,7 @@ Freelance, Kaliningrad — Frontend Developer
 -----
 # Languages:
 
-   * :U+1F1F7 U+1F1FA: Russian - native speaker
+   * :ru: Russian - native speaker
    * :uk: English - B1/B2  
 
 
