@@ -26,7 +26,7 @@ Fan of unit tests, functional programming and typed interfaces.
 * Redux
 * NodeJS (basics)
 * Git
-* Webpack
+* Webpack  
 
 </samp>
 
@@ -57,7 +57,7 @@ Freelance, Kaliningrad — Frontend Developer
 -----
 # Languages:
 
-   * :ru: Russian - native speaker
+   * 🇷🇺 Russian - native speaker
    * :uk: English - B1/B2
 
   + [<img width=200 alt="my efset sertificate" src="assets/The official EF SET Certificate™ _ Stanislav Kudriavtsev.jpg" />][efset]
