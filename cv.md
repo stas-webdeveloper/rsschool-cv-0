@@ -19,14 +19,14 @@ Fan of unit tests, functional programming and typed interfaces.
 
 <samp>
 
-    ✓ HTML5 & CSS3
-    ✓ JavaScript >ES6
-    ✓ TypeScript
-    ✓ React
-    ✓ Redux
-    ✓ NodeJS (basics)
-    ✓ Git
-    ✓ Webpack  
+    * ✓ HTML5 & CSS3
+    * ✓ JavaScript >ES6
+    * ✓ TypeScript
+    * ✓ React
+    * ✓ Redux
+    * ✓ NodeJS (basics)
+    * ✓ Git
+    * ✓ Webpack  
 
 </samp>
 
@@ -53,7 +53,7 @@ Freelance, Kaliningrad — Frontend Developer
   * Online learning
   Glo Academy
   *Aug 2018 - Dec 2018*
-  HTML/ CSS/ JS Basics
+  ✓ HTML/ CSS/ JS Basics
 -----
 # Languages:
 
