@@ -48,6 +48,8 @@ Temporary Items
 # testing
 /coverage
 
+# linters
+.linthtml
 # production
 /build
 /dist/
