@@ -20,13 +20,11 @@ Fan of unit tests, functional programming and typed interfaces.
 <samp>
 
    * ✓HTML5 & CSS3
-   * ✓JavaScript >ES6
-   * ✓TypeScript
-   * ✓React
-   * ✓Redux
+   * ✓JavaScript (>ES6) & TypeScript
+   * ✓React & Redux
    * ✓NodeJS (basics)
-   * ✓Git
    * ✓Webpack  
+   * ✓Git
 
 </samp>
 
