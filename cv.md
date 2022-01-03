@@ -19,14 +19,12 @@ Fan of unit tests, functional programming and typed interfaces.
 
 <samp>
 
-* HTML5 & CSS3
-* JavaScript >ES6
-* TypeScript
-* React
-* Redux
-* NodeJS (basics)
-* Git
-* Webpack
+   * ✓HTML5 & CSS3
+   * ✓JavaScript (>ES6) & TypeScript
+   * ✓React & Redux
+   * ✓NodeJS (basics)
+   * ✓Webpack  
+   * ✓Git
 
 </samp>
 
@@ -50,17 +48,18 @@ Freelance, Kaliningrad — Frontend Developer
   * Highest Military Command Communication College, Location — Oryol, Russia
   *Aug 1984 - Aug 1988*
   Engineer for the operation of radio and electrical conductive communications
-  * Online learning
-  Glo Academy
+* Online learning
+  * Glo Academy
   *Aug 2018 - Dec 2018*
-  HTML/ CSS/ JS Basics
+  ✓ HTML/ CSS/ JS Basics
 -----
 # Languages:
 
    * :ru: Russian - native speaker
-   * :uk: English - B1/B2
+   * :uk: English - B1/B2  
 
-  + [<img width=200 alt="my efset sertificate" src="assets/The official EF SET Certificate™ _ Stanislav Kudriavtsev.jpg" />][efset]
+
+  [<img width=200 alt="my efset sertificate" src="assets/The official EF SET Certificate™ _ Stanislav Kudriavtsev.jpg" />][efset]
 
 
 **:heart: Hobbies:**
