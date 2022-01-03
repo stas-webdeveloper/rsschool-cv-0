@@ -1,1 +1,1 @@
-https://github.com/stas-webdeveloper/rsschool-cv
+https://stas-webdeveloper.github.io/rsschool-cv/
