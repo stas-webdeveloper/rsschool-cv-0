@@ -273,7 +273,9 @@ a {
 
 .divider {
     width: 30%;
+    height: 2px;
     margin: auto;
+    background-color: #e2e2e2;
 }
 .point {
     background-color: #d8cfd0;
